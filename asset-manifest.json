@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/vbb-transport-deploy/static/css/main.af5d4ef9.chunk.css",
+    "main.js": "/vbb-transport-deploy/static/js/main.33fe6af7.chunk.js",
+    "main.js.map": "/vbb-transport-deploy/static/js/main.33fe6af7.chunk.js.map",
+    "runtime-main.js": "/vbb-transport-deploy/static/js/runtime-main.223aadba.js",
+    "runtime-main.js.map": "/vbb-transport-deploy/static/js/runtime-main.223aadba.js.map",
+    "static/css/2.150d169a.chunk.css": "/vbb-transport-deploy/static/css/2.150d169a.chunk.css",
+    "static/js/2.a72ee49e.chunk.js": "/vbb-transport-deploy/static/js/2.a72ee49e.chunk.js",
+    "static/js/2.a72ee49e.chunk.js.map": "/vbb-transport-deploy/static/js/2.a72ee49e.chunk.js.map",
+    "index.html": "/vbb-transport-deploy/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/vbb-transport-deploy/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.af5d4ef9.chunk.css.map": "/vbb-transport-deploy/static/css/main.af5d4ef9.chunk.css.map",
+    "static/js/2.a72ee49e.chunk.js.LICENSE.txt": "/vbb-transport-deploy/static/js/2.a72ee49e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.223aadba.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.a72ee49e.chunk.js",
+    "static/css/main.af5d4ef9.chunk.css",
+    "static/js/main.33fe6af7.chunk.js"
+  ]
+}
